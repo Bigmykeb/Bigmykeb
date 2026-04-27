@@ -58,7 +58,7 @@ Built a simulated enterprise network in Cisco Packet Tracer with separate VLANs 
 
 **Skills:** Active Directory · VMware · Nmap · Enum4Linux · Hydra · Penetration Testing
 
-Built a virtualized enterprise environment on VMware with Windows Server 2022 as Domain Controller running Active Directory and DNS, and a Windows 11 client joined to the domain. Used Kali Linux for reconnaissance and security testing — network scanning with Nmap, enumeration with Enum4Linux, and password attack simulation with Hydra. Analysed authentication errors and domain trust issues throughout. The main takeaway: small misconfigurations compound quickly and have real impact on system integrity.  
+Built a virtualized enterprise environment on VMware with Windows Server 2022 as the Domain Controller running Active Directory and DNS, and a Windows 11 client joined to the domain. Used Kali Linux for reconnaissance and security testing — network scanning with Nmap, enumeration with Enum4Linux, and password attack simulation with Hydra. Analysed authentication errors and domain trust issues throughout. The main takeaway: small misconfigurations compound quickly and have a real impact on system integrity.  
 → *[View Repo](#)*
 
 -----
@@ -67,7 +67,7 @@ Built a virtualized enterprise environment on VMware with Windows Server 2022 as
 
 **Skills:** Email header analysis · IOC extraction · URL analysis · Threat intelligence
 
-Completed phishing analysis challenges covering malicious email dissection, header inspection, URL and attachment analysis, and IOC identification. Screenshots captured. Write-ups in progress.  
+Completed phishing analysis challenges covering malicious email dissection, header inspection, URL and attachment analysis, and IOC identification. Screenshots captured and write-ups in progress.  
 → *[View Repo — Coming soon](#)*
 
 -----
@@ -103,7 +103,7 @@ Working through the SOC Level 1 path — currently 15% through (12 of 65 rooms),
 
 **Skills:** OSINT · Threat Assessment · Security Reporting · Analytical Writing
 
-Active remote intelligence operations and security analysis work. This covers producing structured intelligence products, open-source research, and supporting operational security decisions. Details are operationally sensitive — happy to discuss in interview.
+Active remote intelligence operations and security analysis work. This covers producing structured intelligence products, open-source research, and supporting operational security decisions. Details are operationally sensitive — happy to discuss in an interview.
 
 -----
 
@@ -124,8 +124,20 @@ Active remote intelligence operations and security analysis work. This covers pr
 
 ## 📜 Certifications
 
-- ✅ **ISC² Certified in Cybersecurity (CC)** — December 2025
-- 🔄 **CompTIA Security+** — In progress
+**Active**
+
+- ✅ **ISC² Certified in Cybersecurity (CC)** — Dec 2025 
+- ✅ **Multicloud Network Associate** — Aviatrix · Sep 2025 
+- ✅ **Cyber Security 101** — TryHackMe · Mar 2026
+- ✅ **Pre Security** — TryHackMe · Aug 2025
+- ✅ **Mastercard Cybersecurity Job Simulation** — Forage · Aug 2025
+- ✅ **Networking Basics** — Cisco · Aug 2025
+- ✅ **Introduction to Cybersecurity** — Cisco · Jun 2025
+- ✅ **Foundations of Cybersecurity** — Google · Jul 2024
+
+**In Progress**
+
+- 🔄 **CompTIA Security+**
 - 📚 **AltSchool Africa Cybersecurity Diploma** — Final semester
 
 -----
