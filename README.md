@@ -23,7 +23,8 @@ Open to **Junior SOC Analyst** roles in the UK.
 **Skills:** AWS · CloudTrail · CloudWatch · EventBridge · SNS · Lambda · IAM · Incident Response
 
 Built a real-time security monitoring and automated response system on AWS. Planted a honeytoken secret in AWS Secrets Manager to trap unauthorised access. Set up two independent detection flows — CloudWatch Metric Filter with Alarm, and an EventBridge rule using wildcard pattern matching. Both flows trigger instant SNS email alerts. Wrote a Lambda kill-switch that automatically strips all IAM permissions from the user who accessed the trap. Ran a full simulation as “VictimUser” — alerts fired, permissions revoked, all subsequent commands returned AccessDenied. Deployed and tested end-to-end in eu-west-2.  
-→ *[View Repo](#)*
+→ *[View Repo](https://github.com/Bigmykeb/aws-cloud-security-monitoring)*
+
 
 -----
 
