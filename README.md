@@ -145,8 +145,8 @@ Active remote intelligence operations and security analysis work. This covers pr
 
 ## 📊 GitHub Stats
 
-![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigmykeb&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigmykeb&layout=compact&theme=dark&hide_border=true)
+![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmyk-e&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmyk-e&layout=compact&theme=dark&hide_border=true)
 
 -----
 
