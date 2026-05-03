@@ -32,8 +32,8 @@
   <text x="40" y="65" font-family="monospace" font-size="13" fill="#00d4ff" opacity="0.5">$_</text>
   <text x="40" y="85" font-family="monospace" font-size="11" fill="#00ff88" opacity="0.35">[ SIEM · CloudTrail · IAM · FIM · Threat Detection ]</text>
   <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" filter="url(#glow)">Michael Leramo</text>
-  <text x="450" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#00d4ff" text-anchor="middle" letter-spacing="3" font-weight="400">CYBERSECURITY  |  SOC ANALYST  |  THREAT DETECTION</text>
-  <text x="450" y="165" font-family="monospace" font-size="12" fill="#00ff88" text-anchor="middle" opacity="0.7">Building in public. Learning by doing. Open to SOC opportunities.</text>
+  <text x="450" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#00d4ff" text-anchor="middle" letter-spacing="3" font-weight="400">SOC PRACTITIONER  |  THREAT DETECTION  |  INCIDENT RESPONSE</text>
+  <text x="450" y="165" font-family="monospace" font-size="12" fill="#00ff88" text-anchor="middle" opacity="0.7">SOC Practitioner based in the UK. Building in public, working smart.</text>
   <rect x="15" y="15" width="20" height="3" fill="#00d4ff" opacity="0.6"/>
   <rect x="15" y="15" width="3" height="20" fill="#00d4ff" opacity="0.6"/>
   <rect x="865" y="15" width="20" height="3" fill="#00d4ff" opacity="0.6"/>
