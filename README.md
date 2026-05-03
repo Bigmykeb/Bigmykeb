@@ -20,6 +20,30 @@ Open to **Junior SOC Analyst** roles in the UK.
 
 -----
 
+## 🔴 Phishing Investigation Flow
+
+```mermaid
+flowchart LR
+    A([📧 Suspicious Email\nReported by Dana]) --> B[Visual Inspection\nThunderbird]
+    B --> C[Header Forensics\nSublime Text]
+    C --> D[Sender Verification\nnslookup · whois]
+    D --> E[Auth Analysis\nSPF · DKIM · DMARC]
+    E --> F[URL Extraction\neioc.py]
+    F --> G[Threat Intel\nVirusTotal]
+    G --> H([✅ Verdict\nConfirmed Phishing])
+
+    style A fill:#1a0a00,color:#ff8800,stroke:#ff8800
+    style B fill:#0a1628,color:#00d4ff,stroke:#00d4ff
+    style C fill:#0a1628,color:#00d4ff,stroke:#00d4ff
+    style D fill:#0a1628,color:#00d4ff,stroke:#00d4ff
+    style E fill:#0a1628,color:#00d4ff,stroke:#00d4ff
+    style F fill:#0d2200,color:#00ff88,stroke:#00ff88
+    style G fill:#0d2200,color:#00ff88,stroke:#00ff88
+    style H fill:#0d2200,color:#00ff88,stroke:#00ff88
+```
+
+-----
+
 ## 🔴 Live: AWS Kill-Switch Flow
 
 ```mermaid
@@ -49,6 +73,15 @@ flowchart LR
 -----
 
 ## Projects
+
+### 🎣 Phishing Analysis Challenges *(Apr – May 2026)*
+
+**Skills:** Email header analysis · IOC extraction · URL analysis · Threat intelligence · OSINT
+
+Completed phishing email analysis challenges — full investigation workflow from visual inspection through header forensics, sender verification, SPF/DKIM/DMARC analysis, URL extraction, and VirusTotal verdict. Each challenge produces a structured analyst report documenting all findings, tools, and recommended response actions.  
+→ *[View Repo](https://github.com/bigmyk-e/phishing-analysis-challenges)*
+
+-----
 
 ### ☁️ Cloud Security Monitoring System — AWS *(Feb 2026)*
 
@@ -92,15 +125,6 @@ Built a simulated enterprise network in Cisco Packet Tracer with separate VLANs 
 
 Built a virtualized enterprise environment on VMware with Windows Server 2022 as Domain Controller running Active Directory and DNS, and a Windows 11 client joined to the domain. Used Kali Linux for reconnaissance and security testing — network scanning with Nmap, enumeration with Enum4Linux, and password attack simulation with Hydra. Analysed authentication errors and domain trust issues throughout. The main takeaway: small misconfigurations compound quickly and have real impact on system integrity.  
 → *[View Repo](#)*
-
------
-
-### 🎣 Phishing Analysis Challenges *(2025 – Documentation in progress)*
-
-**Skills:** Email header analysis · IOC extraction · URL analysis · Threat intelligence
-
-Completed phishing analysis challenges covering malicious email dissection, header inspection, URL and attachment analysis, and IOC identification. Screenshots captured. Write-ups in progress.  
-→ *[View Repo — Coming soon](#)*
 
 -----
 
@@ -176,8 +200,8 @@ Active remote intelligence operations and security analysis work. This covers pr
 
 ## 📊 GitHub Stats
 
-![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmyk-e&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmyk-e&layout=compact&theme=dark&hide_border=true)
+![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmyk-e&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmyk-e&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 -----
 
