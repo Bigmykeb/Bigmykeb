@@ -213,7 +213,7 @@ Active remote intelligence operations and security analysis work. This covers pr
 ## 🟥 TryHackMe
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Bigmyke.png" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Bigmyke.png?v=2" alt="TryHackMe Badge"/>
 </p>
 
 -----
