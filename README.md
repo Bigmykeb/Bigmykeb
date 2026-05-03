@@ -225,4 +225,4 @@ Active remote intelligence operations and security analysis work. This covers pr
 
 -----
 
-*Building in public. Learning by doing. Open to junior SOC opportunities in the UK.*
+*SOC Practitioner based in the UK. Building in public, working smart, and documenting everything.*
